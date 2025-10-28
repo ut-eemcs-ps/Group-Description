@@ -1,4 +1,3 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+Our research group specializes in networked smart sensing systems, also called Pervasive Systems. We are a multidisciplinary team of passionate researchers in the vibrant realm of Pervasive Computing, wireless systems, and sensor data analytics. Committed to addressing societal challenges, we harness cutting-edge and foundational technologies to drive impactful solutions. Our group, comprised of dedicated staff and around 25 PhD. students, collaboratively engages in diverse national and international projects. We regularly contribute to conferences and  journals, consistently pushing the boundaries of knowledge and technology.
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+Please check our [news](https://www.utwente.nl/en/eemcs/ps/news/) page for the latest developments!
